@@ -1,12 +1,12 @@
 [package]
-name = "arkecosystem-crypto"
+name = "phantomchain-crypto"
 version = "0.1.0"
 authors = ["Joshua Noack <joshua@ark.io>"]
-description = "A simple Cryptography Implementation in Rust for the ARK Blockchain."
+description = "A simple Cryptography Implementation in Rust for the PHANTOM Blockchain."
 license = "MIT"
 
 [lib]
-name = "arkecosystem_crypto"
+name = "phantomchain_crypto"
 path = "src/lib.rs"
 
 [dependencies]

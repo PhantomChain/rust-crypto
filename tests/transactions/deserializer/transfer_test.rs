@@ -1,6 +1,6 @@
-use arkecosystem_crypto::configuration::network;
-use arkecosystem_crypto::enums::{Network, TransactionType};
-use arkecosystem_crypto::transactions::deserializer;
+use phantomchain_crypto::configuration::network;
+use phantomchain_crypto::enums::{Network, TransactionType};
+use phantomchain_crypto::transactions::deserializer;
 use *;
 
 #[test]

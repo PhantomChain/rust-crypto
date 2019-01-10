@@ -1,4 +1,4 @@
-use arkecosystem_crypto::transactions::deserializer;
+use phantomchain_crypto::transactions::deserializer;
 use *;
 
 #[test]

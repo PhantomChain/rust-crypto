@@ -1,5 +1,5 @@
-use arkecosystem_crypto::identities::public_key;
-use arkecosystem_crypto::transactions::builder;
+use phantomchain_crypto::identities::public_key;
+use phantomchain_crypto::transactions::builder;
 
 #[test]
 fn test_signed_with_a_passphrase() {

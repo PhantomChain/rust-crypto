@@ -1,4 +1,4 @@
-extern crate arkecosystem_crypto;
+extern crate phantomchain_crypto;
 extern crate serde;
 extern crate serde_json;
 
